@@ -1,0 +1,416 @@
+./dataFiles/tsp_6.txt	1022900ns	168	36	27.2727%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 4 2 5 0 1 3 
+Dlugosc tej sciezki to: 168
+
+Jest gorsza (dluzsza) od optymalnej o: 36   Blad: 27.2727%
+
+
+
+
+./dataFiles/tsp_10.txt	852200ns	250	38	17.9245%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 3 2 5 0 1 9 6 7 8 4 
+Dlugosc tej sciezki to: 250
+
+Jest gorsza (dluzsza) od optymalnej o: 38   Blad: 17.9245%
+
+
+
+
+./dataFiles/tsp_12.txt	1178800ns	335	71	26.8939%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 1 10 3 5 11 2 8 4 6 9 0 7 
+Dlugosc tej sciezki to: 335
+
+Jest gorsza (dluzsza) od optymalnej o: 71   Blad: 26.8939%
+
+
+
+
+./dataFiles/tsp_13.txt	1713700ns	346	77	28.6245%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 4 6 2 11 9 0 10 3 5 1 12 7 8 
+Dlugosc tej sciezki to: 346
+
+Jest gorsza (dluzsza) od optymalnej o: 77   Blad: 28.6245%
+
+
+
+
+./dataFiles/tsp_14.txt	1479800ns	365	83	29.4326%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 0 12 1 9 11 7 2 6 4 8 13 5 3 10 
+Dlugosc tej sciezki to: 365
+
+Jest gorsza (dluzsza) od optymalnej o: 83   Blad: 29.4326%
+
+
+
+
+./dataFiles/tsp_15.txt	2269200ns	375	84	28.866%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 13 11 2 6 7 9 4 8 14 1 12 0 5 3 10 
+Dlugosc tej sciezki to: 375
+
+Jest gorsza (dluzsza) od optymalnej o: 84   Blad: 28.866%
+
+
+
+
+./dataFiles/tsp_21.txt	1663500ns	3196	489	18.0643%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 13 12 9 16 18 19 7 5 0 3 10 11 6 15 4 8 2 1 20 14 17 
+Dlugosc tej sciezki to: 3196
+
+Jest gorsza (dluzsza) od optymalnej o: 489   Blad: 18.0643%
+
+
+
+
+./dataFiles/tsp_24.txt	2056600ns	1604	332	26.1006%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 17 16 20 7 15 0 3 22 8 12 9 4 5 23 2 10 6 11 13 19 1 14 18 21 
+Dlugosc tej sciezki to: 1604
+
+Jest gorsza (dluzsza) od optymalnej o: 332   Blad: 26.1006%
+
+
+
+
+./dataFiles/tsp_26.txt	1907300ns	1197	260	27.7481%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 5 4 6 7 18 20 21 25 22 23 24 11 12 10 13 0 1 2 9 8 15 16 17 19 14 3 
+Dlugosc tej sciezki to: 1197
+
+Jest gorsza (dluzsza) od optymalnej o: 260   Blad: 27.7481%
+
+
+
+
+./dataFiles/tsp_48.txt	4400200ns	6555	1509	29.9049%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 13 8 21 30 11 9 23 44 29 3 18 17 45 27 6 28 14 32 4 7 31 20 16 26 35 10 15 47 12 0 43 40 33 22 24 2 42 39 38 41 19 37 1 34 36 46 25 5 
+Dlugosc tej sciezki to: 6555
+
+Jest gorsza (dluzsza) od optymalnej o: 1509   Blad: 29.9049%
+
+
+
+
+./dataFiles/tsp_96.txt	300047649700ns	78570	23361	42.3138%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 35 36 37 38 50 54 68 69 82 90 79 78 42 48 49 51 83 84 85 86 89 88 87 77 91 92 93 67 60 61 59 53 46 47 62 63 66 65 26 27 25 22 21 20 18 17 19 16 15 14 10 32 5 6 8 13 12 11 9 7 4 3 2 1 0 29 30 31 28 33 34 39 40 41 45 52 57 55 56 58 70 71 72 80 81 73 74 75 76 94 95 64 23 24 44 43 
+Dlugosc tej sciezki to: 78570
+
+Jest gorsza (dluzsza) od optymalnej o: 23361   Blad: 42.3138%
+
+
+
+
+./dataFiles/tsp_120.txt	300079713700ns	9491	2549	36.7185%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 48 12 117 112 67 90 57 99 32 51 24 18 116 30 65 80 91 27 73 104 39 33 25 46 70 7 23 59 15 60 28 119 31 29 14 58 75 0 110 95 89 88 100 79 26 52 76 94 63 92 108 20 114 10 50 22 102 118 2 4 62 38 82 61 98 9 34 105 36 66 56 72 113 37 6 55 44 77 93 74 43 40 8 81 11 96 87 1 3 115 69 53 54 5 83 35 103 111 109 101 47 71 86 13 85 21 84 17 107 78 42 64 68 106 19 45 49 97 41 16 
+Dlugosc tej sciezki to: 9491
+
+Jest gorsza (dluzsza) od optymalnej o: 2549   Blad: 36.7185%
+
+
+
+
+./dataFiles/tsp_137.txt	300221547200ns	116283	46430	66.4682%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 114 104 103 99 97 98 100 101 102 115 116 124 135 84 80 74 72 71 43 42 36 28 35 40 11 12 14 13 41 34 52 51 27 24 22 21 20 19 30 31 37 32 33 53 55 57 58 60 61 95 136 125 126 127 132 133 82 79 78 49 48 47 46 45 44 15 50 73 75 76 77 81 86 88 89 90 92 70 87 85 83 134 123 122 121 120 118 117 110 111 109 108 107 106 105 96 91 56 26 23 18 25 63 64 67 68 69 93 94 66 65 62 59 54 39 38 29 9 7 8 5 6 17 4 3 2 1 0 10 16 131 130 129 128 119 112 113 
+Dlugosc tej sciezki to: 116283
+
+Jest gorsza (dluzsza) od optymalnej o: 46430   Blad: 66.4682%
+
+
+
+
+./dataFiles/tsp_229.txt	317367705700ns	295251	160649	119.351%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 190 221 216 218 208 209 210 157 203 211 214 215 219 200 158 195 194 193 191 192 49 183 182 179 108 109 123 47 46 48 187 224 225 223 42 41 167 130 131 133 134 135 143 142 112 106 99 90 88 21 14 25 44 43 222 201 199 197 196 186 185 184 181 176 177 174 175 198 150 154 148 147 151 128 110 103 32 38 39 180 166 37 33 94 92 76 75 67 66 64 63 58 54 56 22 83 34 165 168 169 173 172 164 163 161 160 152 137 129 127 125 101 102 122 212 213 228 227 226 217 220 202 156 153 132 170 126 124 107 104 96 97 93 78 79 86 18 52 87 89 74 105 111 114 117 119 120 121 118 115 116 141 138 136 162 171 178 31 30 26 73 72 71 70 69 68 77 59 62 60 85 84 91 35 36 95 98 100 81 53 51 6 5 8 10 50 57 61 65 80 82 23 19 9 7 1 0 27 28 40 159 155 149 205 207 206 204 146 145 144 140 139 113 2 3 4 11 55 24 20 17 16 15 12 13 29 45 189 188 
+Dlugosc tej sciezki to: 295251
+
+Jest gorsza (dluzsza) od optymalnej o: 160649   Blad: 119.351%
+
+
+
+
+./dataFiles/tsp_318.txt	300268456100ns	102382	60353	143.598%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 209 167 170 302 307 308 279 267 252 245 242 239 240 241 139 146 156 157 168 171 172 175 86 87 64 65 68 72 80 74 73 69 60 144 137 132 127 124 39 315 316 46 43 34 33 135 136 37 38 57 56 55 54 49 47 44 48 58 63 66 67 84 90 91 88 89 93 138 238 231 230 117 118 162 166 173 178 179 185 192 191 294 293 292 291 287 280 277 276 169 51 45 42 26 11 1 0 2 7 8 112 113 107 4 15 16 13 12 116 130 143 142 313 237 232 233 236 235 234 227 226 222 213 214 225 228 221 210 211 215 216 219 220 224 229 246 317 269 270 290 305 306 174 59 52 103 28 21 102 19 18 17 149 152 278 297 296 303 309 304 299 298 199 200 94 98 97 92 82 81 77 70 20 10 9 6 5 14 22 153 160 163 75 79 71 76 78 85 176 177 180 184 181 183 188 182 186 187 190 193 194 198 301 300 295 289 284 283 282 285 288 286 281 273 164 165 141 131 207 119 115 114 111 110 3 106 105 312 244 243 223 218 217 212 108 109 123 128 50 53 104 83 101 100 96 95 61 62 133 126 125 134 208 154 159 158 155 151 150 258 260 263 266 262 261 255 256 253 254 257 259 264 265 268 201 99 205 206 311 310 204 203 202 197 196 195 189 161 145 140 129 122 120 121 314 271 272 275 274 247 248 251 250 249 147 148 36 32 31 30 29 27 23 24 25 35 40 41 
+Dlugosc tej sciezki to: 102382
+
+Jest gorsza (dluzsza) od optymalnej o: 60353   Blad: 143.598%
+
+
+
+
+./dataFiles/tsp_431.txt	303005090200ns	383275	211861	123.596%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 3
+Najkrotsza sciezka: 59 60 61 85 78 202 227 228 368 369 378 384 385 75 74 73 67 108 106 104 107 159 165 333 337 353 352 356 355 354 336 335 332 334 373 364 374 365 350 406 407 408 409 417 420 418 419 245 246 214 213 178 177 175 172 132 131 20 12 6 8 9 10 36 38 158 207 234 326 328 329 331 327 310 309 306 296 226 167 111 40 33 31 32 153 154 152 151 171 210 209 204 203 81 156 157 155 99 98 44 41 105 110 109 102 35 42 55 52 56 57 58 62 64 63 71 50 7 3 5 4 1 65 66 243 247 370 372 367 305 298 299 297 295 304 303 307 302 301 300 308 314 371 375 399 398 396 395 397 388 387 386 242 240 230 229 233 241 383 379 376 377 366 363 362 357 358 413 410 414 415 416 429 430 0 72 84 83 86 91 92 96 95 128 136 22 23 21 18 11 16 17 145 148 150 199 200 266 265 262 261 263 201 253 198 196 197 252 259 255 254 195 190 187 184 141 14 13 2 15 29 30 34 103 168 173 180 260 264 267 268 270 269 149 186 142 27 26 19 25 28 140 183 135 169 163 160 161 211 222 237 238 294 293 292 290 288 283 282 291 276 275 323 322 320 274 273 272 271 279 319 321 343 345 347 346 344 341 340 324 277 278 280 281 289 239 380 381 382 235 236 287 286 284 256 191 189 147 146 24 143 144 166 116 115 101 113 114 112 129 130 185 176 285 313 316 317 318 315 312 311 325 216 90 70 68 69 53 54 51 125 133 174 188 179 219 223 330 339 338 342 348 349 351 405 421 428 427 426 425 424 423 403 404 359 402 401 392 391 389 250 248 249 215 164 170 134 124 121 120 118 39 37 117 122 119 123 139 138 137 126 127 93 87 88 89 80 79 205 206 212 182 181 192 193 194 231 232 251 390 394 393 400 361 360 412 411 422 244 76 77 82 47 48 45 46 49 97 208 218 217 221 224 225 257 258 220 162 100 94 43 
+Dlugosc tej sciezki to: 383275
+
+Jest gorsza (dluzsza) od optymalnej o: 211861   Blad: 123.596%
+
+
+
+
+./dataFiles/tsp_6.txt	678100ns	169	37	28.0303%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 1 2 4 0 5 3 
+Dlugosc tej sciezki to: 169
+
+Jest gorsza (dluzsza) od optymalnej o: 37   Blad: 28.0303%
+
+
+
+
+./dataFiles/tsp_10.txt	1290700ns	240	28	13.2075%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 7 8 2 0 3 4 5 1 6 9 
+Dlugosc tej sciezki to: 240
+
+Jest gorsza (dluzsza) od optymalnej o: 28   Blad: 13.2075%
+
+
+
+
+./dataFiles/tsp_12.txt	1351400ns	335	71	26.8939%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 10 3 5 4 8 2 11 7 9 6 1 0 
+Dlugosc tej sciezki to: 335
+
+Jest gorsza (dluzsza) od optymalnej o: 71   Blad: 26.8939%
+
+
+
+
+./dataFiles/tsp_13.txt	980400ns	340	71	26.3941%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 9 5 3 7 10 0 12 1 8 4 2 6 11 
+Dlugosc tej sciezki to: 340
+
+Jest gorsza (dluzsza) od optymalnej o: 71   Blad: 26.3941%
+
+
+
+
+./dataFiles/tsp_14.txt	1150600ns	361	79	28.0142%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 13 11 9 7 2 6 1 4 8 12 0 10 3 5 
+Dlugosc tej sciezki to: 361
+
+Jest gorsza (dluzsza) od optymalnej o: 79   Blad: 28.0142%
+
+
+
+
+./dataFiles/tsp_15.txt	1539000ns	367	76	26.1168%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 4 9 13 2 6 11 7 5 3 10 0 12 1 8 14 
+Dlugosc tej sciezki to: 367
+
+Jest gorsza (dluzsza) od optymalnej o: 76   Blad: 26.1168%
+
+
+
+
+./dataFiles/tsp_21.txt	5126100ns	3496	789	29.1467%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 10 3 11 16 18 19 5 6 0 7 15 4 8 2 13 14 1 20 12 17 9 
+Dlugosc tej sciezki to: 3496
+
+Jest gorsza (dluzsza) od optymalnej o: 789   Blad: 29.1467%
+
+
+
+
+./dataFiles/tsp_24.txt	1811500ns	1647	375	29.4811%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 0 15 5 6 10 2 16 18 13 8 12 22 9 1 19 14 21 17 4 7 20 23 3 11 
+Dlugosc tej sciezki to: 1647
+
+Jest gorsza (dluzsza) od optymalnej o: 375   Blad: 29.4811%
+
+
+
+
+./dataFiles/tsp_26.txt	1690000ns	1159	222	23.6926%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 17 25 20 24 23 22 21 16 15 11 12 9 14 13 10 0 1 2 3 4 5 7 6 8 19 18 
+Dlugosc tej sciezki to: 1159
+
+Jest gorsza (dluzsza) od optymalnej o: 222   Blad: 23.6926%
+
+
+
+
+./dataFiles/tsp_48.txt	4489900ns	6530	1484	29.4094%
+Maksymalny czas: 300 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Alpha cool rate: 0.99999
+Sposob generowania temperatury: 0
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 4
+Najkrotsza sciezka: 39 1 29 3 17 45 27 43 40 33 22 18 2 24 42 36 23 32 7 20 31 8 13 35 5 10 15 12 0 28 6 47 21 16 26 4 11 9 30 14 25 46 44 37 19 34 41 38 
+Dlugosc tej sciezki to: 6530
+
+Jest gorsza (dluzsza) od optymalnej o: 1484   Blad: 29.4094%
+
+
+
+

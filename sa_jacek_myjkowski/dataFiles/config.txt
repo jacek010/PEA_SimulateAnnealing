@@ -1,0 +1,20 @@
+0	30	300	0.99999
+tsp_6.txt	1	132
+tsp_10.txt	1	212
+tsp_12.txt	1	264
+tsp_13.txt	1	269
+tsp_14.txt	1	282
+tsp_15.txt	1	291
+tsp_21.txt	1	2707
+tsp_24.txt	1	1272
+tsp_26.txt	1	937
+tsp_48.txt	1	5046
+tsp_96.txt	1	55209
+tsp_120.txt	1	6942
+tsp_137.txt	1	69853
+tsp_229.txt	1	134602
+tsp_318.txt	1	42029
+tsp_431.txt	1	171414
+3
+4
+5

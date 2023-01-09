@@ -1,0 +1,84 @@
+./dataFiles/tsp_15.txt	39563581300ns	317	26	8.93471%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 2
+Najkrotsza sciezka: 12 1 8 14 4 6 2 9 11 13 7 5 3 10 0 
+Dlugosc tej sciezki to: 317
+
+Jest gorsza (dluzsza) od optymalnej o: 26   Blad: 8.93471%
+
+
+
+
+./dataFiles/tsp_15.txt	12309400ns	316	25	8.59107%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 5
+Najkrotsza sciezka: 5 7 9 13 11 2 4 6 8 14 1 12 0 10 3 
+Dlugosc tej sciezki to: 316
+
+Jest gorsza (dluzsza) od optymalnej o: 25   Blad: 8.59107%
+
+
+
+
+./dataFiles/tsp_15.txt	180011168200ns	326	35	12.0275%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 8
+Najkrotsza sciezka: 12 14 8 4 6 2 11 13 5 3 10 0 7 9 1 
+Dlugosc tej sciezki to: 326
+
+Jest gorsza (dluzsza) od optymalnej o: 35   Blad: 12.0275%
+
+
+
+
+./dataFiles/tsp_21.txt	180012844500ns	3379	672	24.8245%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 2
+Najkrotsza sciezka: 11 7 6 5 2 8 4 15 0 3 10 18 16 17 12 13 1 14 20 9 19 
+Dlugosc tej sciezki to: 3379
+
+Jest gorsza (dluzsza) od optymalnej o: 672   Blad: 24.8245%
+
+
+
+
+./dataFiles/tsp_21.txt	180012786900ns	3060	353	13.0403%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 5
+Najkrotsza sciezka: 20 1 14 13 12 17 9 16 18 3 11 0 6 7 5 15 4 8 2 10 19 
+Dlugosc tej sciezki to: 3060
+
+Jest gorsza (dluzsza) od optymalnej o: 353   Blad: 13.0403%
+
+
+
+
+./dataFiles/tsp_21.txt	180013300000ns	3621	914	33.7643%
+Maksymalny czas: 180 s
+PLIK WEJSCIOWY	CZAS[s]	DLUGOSC SCIEZKI	GORSZA OD OPTYMALNEJ	PROCENTOWO
+Styl chlodzenia: 0
+Sposob przegladania sasiedztwa 0
+Dlugosc ery: 8
+Najkrotsza sciezka: 10 3 0 6 8 4 2 1 20 14 13 12 17 9 19 15 5 7 11 18 16 
+Dlugosc tej sciezki to: 3621
+
+Jest gorsza (dluzsza) od optymalnej o: 914   Blad: 33.7643%
+
+
+
+
